@@ -1,0 +1,307 @@
+,Date,HomeTeam,AwayTeam,FTR,TipicoH,TipicoD,TipicoA
+0,10/08/07,Stuttgart,Schalke 04,D,2.37,3.25,2.87
+1,11/08/07,Bayern Munich,Hansa Rostock,H,1.16,6.0,19.0
+2,11/08/07,Bochum,Werder Bremen,D,3.5,3.3,2.05
+3,11/08/07,Ein Frankfurt,Hertha,H,2.37,3.2,2.9
+4,11/08/07,Hannover,Hamburg,A,2.5,3.2,2.75
+5,11/08/07,Leverkusen,Cottbus,D,1.53,3.8,6.0
+6,11/08/07,Wolfsburg,Bielefeld,A,2.0,3.3,3.6
+7,12/08/07,Dortmund,Duisburg,A,1.53,3.8,6.0
+8,12/08/07,Nurnberg,Karlsruhe,A,1.8,3.3,4.5
+9,17/08/07,Karlsruhe,Hannover,A,2.37,3.25,2.87
+10,18/08/07,Bielefeld,Ein Frankfurt,D,2.1,3.25,3.4
+11,18/08/07,Duisburg,Wolfsburg,A,2.3,3.25,3.0
+12,18/08/07,Hansa Rostock,Nurnberg,A,2.6,3.25,2.6
+13,18/08/07,Hertha,Stuttgart,H,3.0,3.25,2.3
+14,18/08/07,Schalke 04,Dortmund,H,1.75,3.4,4.75
+15,18/08/07,Werder Bremen,Bayern Munich,A,3.8,3.3,1.95
+16,19/08/07,Cottbus,Bochum,A,2.4,3.2,2.87
+17,19/08/07,Hamburg,Leverkusen,H,2.1,3.25,3.4
+18,24/08/07,Bochum,Hamburg,H,3.0,3.25,2.3
+19,25/08/07,Bayern Munich,Hannover,H,1.16,6.5,15.0
+20,25/08/07,Bielefeld,Hertha,H,2.37,3.25,2.87
+21,25/08/07,Dortmund,Cottbus,H,1.61,3.6,5.5
+22,25/08/07,Leverkusen,Karlsruhe,H,1.57,3.6,6.0
+23,25/08/07,Nurnberg,Werder Bremen,A,2.6,3.25,2.6
+24,25/08/07,Stuttgart,Duisburg,H,1.44,4.0,7.5
+25,26/08/07,Ein Frankfurt,Hansa Rostock,H,1.72,3.5,4.75
+26,26/08/07,Wolfsburg,Schalke 04,D,3.4,3.25,2.1
+27,31/08/07,Schalke 04,Leverkusen,D,1.72,3.5,4.75
+28,01/09/07,Cottbus,Nurnberg,D,2.8,3.25,2.4
+29,01/09/07,Duisburg,Bielefeld,H,2.3,3.25,3.0
+30,01/09/07,Hannover,Bochum,H,2.0,3.3,3.6
+31,01/09/07,Hansa Rostock,Dortmund,A,3.2,3.25,2.2
+32,01/09/07,Hertha,Wolfsburg,H,2.2,3.25,3.2
+33,01/09/07,Werder Bremen,Ein Frankfurt,H,1.57,3.6,6.0
+34,02/09/07,Hamburg,Bayern Munich,D,4.0,3.5,1.83
+35,02/09/07,Karlsruhe,Stuttgart,H,3.6,3.3,2.0
+36,14/09/07,Dortmund,Werder Bremen,H,2.6,3.25,2.7
+37,15/09/07,Bayern Munich,Schalke 04,D,1.5,4.0,6.75
+38,15/09/07,Bielefeld,Hansa Rostock,H,1.75,3.5,4.75
+39,15/09/07,Ein Frankfurt,Hamburg,H,2.7,3.25,2.6
+40,15/09/07,Leverkusen,Bochum,H,1.61,3.75,5.5
+41,15/09/07,Nurnberg,Hannover,D,2.1,3.3,3.5
+42,15/09/07,Stuttgart,Cottbus,H,1.36,4.5,9.5
+43,16/09/07,Duisburg,Hertha,A,2.65,3.25,2.65
+44,16/09/07,Wolfsburg,Karlsruhe,A,1.85,3.5,4.2
+45,21/09/07,Bochum,Ein Frankfurt,D,2.3,3.3,3.1
+46,22/09/07,Cottbus,Wolfsburg,A,2.6,3.3,2.65
+47,22/09/07,Hamburg,Nurnberg,H,1.7,3.6,5.0
+48,22/09/07,Hansa Rostock,Duisburg,H,2.4,3.3,2.9
+49,22/09/07,Hertha,Dortmund,H,2.4,3.3,2.9
+50,22/09/07,Schalke 04,Bielefeld,H,1.44,4.2,7.5
+51,22/09/07,Werder Bremen,Stuttgart,H,2.15,3.3,3.4
+52,23/09/07,Hannover,Leverkusen,A,2.5,3.25,2.8
+53,23/09/07,Karlsruhe,Bayern Munich,A,7.0,4.33,1.44
+54,25/09/07,Dortmund,Hamburg,A,2.2,3.25,3.3
+55,25/09/07,Duisburg,Schalke 04,A,5.0,3.5,1.72
+56,25/09/07,Hertha,Hansa Rostock,A,1.44,4.0,8.5
+57,25/09/07,Wolfsburg,Werder Bremen,D,3.4,3.3,2.15
+58,26/09/07,Bayern Munich,Cottbus,H,1.12,8.0,21.0
+59,26/09/07,Bielefeld,Hannover,A,2.25,3.25,3.2
+60,26/09/07,Ein Frankfurt,Karlsruhe,A,1.72,3.5,5.0
+61,26/09/07,Nurnberg,Leverkusen,A,2.5,3.3,2.75
+62,26/09/07,Stuttgart,Bochum,H,1.53,3.75,6.25
+63,28/09/07,Schalke 04,Hertha,H,1.57,3.8,6.0
+64,29/09/07,Bochum,Nurnberg,D,2.37,3.25,3.0
+65,29/09/07,Hamburg,Wolfsburg,D,1.66,3.75,5.0
+66,29/09/07,Hansa Rostock,Stuttgart,H,3.6,3.5,2.0
+67,29/09/07,Karlsruhe,Dortmund,H,2.8,3.25,2.5
+68,29/09/07,Leverkusen,Bayern Munich,A,4.33,3.6,1.8
+69,29/09/07,Werder Bremen,Bielefeld,H,1.44,4.33,7.0
+70,30/09/07,Cottbus,Ein Frankfurt,D,2.8,3.25,2.5
+71,30/09/07,Hannover,Duisburg,H,1.72,3.5,5.0
+72,05/10/07,Dortmund,Bochum,H,1.72,3.7,4.75
+73,06/10/07,Bielefeld,Hamburg,A,3.2,3.25,2.25
+74,06/10/07,Duisburg,Werder Bremen,A,5.5,3.8,1.61
+75,06/10/07,Hertha,Cottbus,D,1.4,4.33,8.5
+76,06/10/07,Schalke 04,Karlsruhe,A,1.4,4.33,8.5
+77,06/10/07,Stuttgart,Hannover,A,1.72,3.6,4.75
+78,06/10/07,Wolfsburg,Hansa Rostock,H,1.72,3.6,4.75
+79,07/10/07,Bayern Munich,Nurnberg,H,1.18,6.5,16.0
+80,07/10/07,Ein Frankfurt,Leverkusen,H,2.7,3.25,2.62
+81,19/10/07,Cottbus,Duisburg,A,2.0,3.4,3.75
+82,20/10/07,Bochum,Bayern Munich,A,8.0,4.5,1.4
+83,20/10/07,Hamburg,Stuttgart,H,2.2,3.25,3.25
+84,20/10/07,Hansa Rostock,Schalke 04,D,4.5,3.5,1.8
+85,20/10/07,Leverkusen,Dortmund,D,1.85,3.5,4.2
+86,20/10/07,Nurnberg,Ein Frankfurt,H,2.1,3.3,3.5
+87,20/10/07,Werder Bremen,Hertha,H,1.5,4.0,6.75
+88,21/10/07,Hannover,Wolfsburg,D,2.1,3.3,3.5
+89,21/10/07,Karlsruhe,Bielefeld,D,1.85,3.4,4.33
+90,26/10/07,Ein Frankfurt,Hannover,D,2.3,3.3,3.1
+91,27/10/07,Bielefeld,Cottbus,D,1.85,3.5,4.2
+92,27/10/07,Hansa Rostock,Karlsruhe,D,2.4,3.3,2.87
+93,27/10/07,Hertha,Bochum,H,1.8,3.5,4.5
+94,27/10/07,Schalke 04,Werder Bremen,D,2.25,3.4,3.1
+95,27/10/07,Stuttgart,Leverkusen,H,2.3,3.4,3.0
+96,27/10/07,Wolfsburg,Nurnberg,H,2.1,3.4,3.4
+97,28/10/07,Dortmund,Bayern Munich,D,5.0,3.5,1.72
+98,28/10/07,Duisburg,Hamburg,A,4.0,3.4,1.9
+99,02/11/07,Cottbus,Schalke 04,H,5.25,3.6,1.66
+100,03/11/07,Bayern Munich,Ein Frankfurt,D,1.2,6.0,15.0
+101,03/11/07,Hamburg,Hertha,H,1.61,3.75,5.5
+102,03/11/07,Hannover,Dortmund,H,2.3,3.4,3.0
+103,03/11/07,Leverkusen,Bielefeld,H,1.53,4.0,6.0
+104,03/11/07,Nurnberg,Stuttgart,A,2.5,3.3,2.75
+105,03/11/07,Werder Bremen,Hansa Rostock,H,1.3,5.0,10.0
+106,04/11/07,Bochum,Wolfsburg,H,2.4,3.3,2.87
+107,04/11/07,Karlsruhe,Duisburg,H,1.8,3.5,4.5
+108,09/11/07,Duisburg,Bochum,A,2.4,3.2,3.0
+109,10/11/07,Dortmund,Ein Frankfurt,D,1.85,3.4,4.33
+110,10/11/07,Hansa Rostock,Cottbus,H,2.0,3.3,3.75
+111,10/11/07,Hertha,Hannover,H,2.15,3.3,3.4
+112,10/11/07,Schalke 04,Hamburg,D,2.37,3.25,3.0
+113,10/11/07,Stuttgart,Bayern Munich,H,4.33,3.6,1.8
+114,10/11/07,Werder Bremen,Karlsruhe,H,1.44,4.33,7.0
+115,11/11/07,Bielefeld,Nurnberg,H,2.5,3.25,2.8
+116,11/11/07,Wolfsburg,Leverkusen,A,2.4,3.3,2.9
+117,23/11/07,Karlsruhe,Hertha,H,2.25,3.2,3.2
+118,24/11/07,Bayern Munich,Wolfsburg,H,1.22,5.75,14.0
+119,24/11/07,Bochum,Bielefeld,H,1.85,3.4,4.33
+120,24/11/07,Cottbus,Werder Bremen,A,5.75,3.7,1.61
+121,24/11/07,Ein Frankfurt,Stuttgart,A,2.75,3.3,2.5
+122,24/11/07,Hannover,Schalke 04,A,2.65,3.3,2.6
+123,24/11/07,Leverkusen,Duisburg,H,1.36,4.5,9.0
+124,25/11/07,Hamburg,Hansa Rostock,H,1.33,4.5,11.0
+125,25/11/07,Nurnberg,Dortmund,H,2.5,3.25,2.8
+126,30/11/07,Hansa Rostock,Hannover,A,2.75,3.3,2.5
+127,01/12/07,Cottbus,Karlsruhe,H,2.62,3.25,2.62
+128,01/12/07,Hertha,Leverkusen,A,2.5,3.3,2.75
+129,01/12/07,Schalke 04,Bochum,H,1.44,4.2,7.5
+130,01/12/07,Stuttgart,Dortmund,A,1.66,3.6,5.5
+131,01/12/07,Werder Bremen,Hamburg,H,2.2,3.25,3.3
+132,01/12/07,Wolfsburg,Ein Frankfurt,D,1.83,3.4,4.5
+133,02/12/07,Bielefeld,Bayern Munich,A,7.0,4.33,1.44
+134,02/12/07,Duisburg,Nurnberg,H,2.6,3.3,2.62
+135,07/12/07,Dortmund,Bielefeld,H,1.61,3.75,5.5
+136,08/12/07,Bayern Munich,Duisburg,D,1.14,7.5,17.0
+137,08/12/07,Bochum,Karlsruhe,D,2.15,3.3,3.4
+138,08/12/07,Ein Frankfurt,Schalke 04,D,3.4,3.3,2.15
+139,08/12/07,Hamburg,Cottbus,D,1.28,5.25,11.0
+140,08/12/07,Hannover,Werder Bremen,H,3.25,3.3,2.2
+141,08/12/07,Stuttgart,Wolfsburg,H,1.66,3.6,5.25
+142,09/12/07,Leverkusen,Hansa Rostock,H,1.3,5.0,11.0
+143,09/12/07,Nurnberg,Hertha,H,2.2,3.3,3.25
+144,14/12/07,Cottbus,Hannover,H,2.9,3.3,2.4
+145,15/12/07,Bielefeld,Stuttgart,H,3.8,3.3,2.0
+146,15/12/07,Hertha,Bayern Munich,D,5.5,3.8,1.61
+147,15/12/07,Karlsruhe,Hamburg,D,3.2,3.25,2.25
+148,15/12/07,Schalke 04,Nurnberg,H,1.5,4.0,6.75
+149,15/12/07,Werder Bremen,Leverkusen,H,1.95,3.5,3.75
+150,15/12/07,Wolfsburg,Dortmund,H,2.4,3.3,2.9
+151,16/12/07,Duisburg,Ein Frankfurt,A,2.5,3.25,2.8
+152,16/12/07,Hansa Rostock,Bochum,H,2.4,3.3,2.9
+153,01/02/08,Hansa Rostock,Bayern Munich,A,"7,5","4,2","1,45"
+154,02/02/08,Bielefeld,Wolfsburg,A,"2,6","3,2","2,8"
+155,02/02/08,Cottbus,Leverkusen,A,"4,0","3,2","2,0"
+156,02/02/08,Duisburg,Dortmund,D,"3,4","3,2","2,2"
+157,02/02/08,Hamburg,Hannover,D,"1,75","3,5",5
+158,02/02/08,Hertha,Ein Frankfurt,A,"2,15","3,2","3,6"
+159,02/02/08,Karlsruhe,Nurnberg,H,"2,5","3,2","2,9"
+160,03/02/08,Schalke 04,Stuttgart,H,"1,85","3,4","4,5"
+161,03/02/08,Werder Bremen,Bochum,A,"1,35","4,5","9,0"
+162,08/02/08,Ein Frankfurt,Bielefeld,H,"1,75","3,5","5,0"
+163,09/02/08,Bochum,Cottbus,D,"1,9","3,3","4,3"
+164,09/02/08,Hannover,Karlsruhe,D,"1,9","3,3","4,3"
+165,09/02/08,Leverkusen,Hamburg,D,"2,4","3,3","3,0"
+166,09/02/08,Nurnberg,Hansa Rostock,D,"1,7","3,5","5,5"
+167,09/02/08,Stuttgart,Hertha,A,"1,7","3,5","5,5"
+168,09/02/08,Wolfsburg,Duisburg,H,"1,6","3,7",6
+169,10/02/08,Bayern Munich,Werder Bremen,D,"1,7","3,5","5,5"
+170,10/02/08,Dortmund,Schalke 04,A,3,"3,2","2,5"
+171,15/02/08,Schalke 04,Wolfsburg,A,"1,6","3,7","6,0"
+172,16/02/08,Cottbus,Dortmund,A,"2,8","3,2","2,6"
+173,16/02/08,Duisburg,Stuttgart,A,"3,6","3,3","2,1"
+174,16/02/08,Hansa Rostock,Ein Frankfurt,H,"2,6","3,2","2,8"
+175,16/02/08,Hertha,Bielefeld,H,"1,7","3,5","5,5"
+176,16/02/08,Karlsruhe,Leverkusen,D,"2,9","3,2","2,5"
+177,16/02/08,Werder Bremen,Nurnberg,H,"1,35","4,5",9
+178,17/02/08,Hamburg,Bochum,H,"1,5","4,0",7
+179,17/02/08,Hannover,Bayern Munich,A,"4,5","3,4","1,85"
+180,22/02/08,Bochum,Hannover,H,"2,4","3,2",3
+181,23/02/08,Bielefeld,Duisburg,A,"2,1","3,3","3,6"
+182,23/02/08,Dortmund,Hansa Rostock,H,"1,65","3,5",6
+183,23/02/08,Ein Frankfurt,Werder Bremen,H,"3,7","3,2","2,1"
+184,23/02/08,Leverkusen,Schalke 04,H,"2,5","3,2","2,9"
+185,23/02/08,Stuttgart,Karlsruhe,H,"1,85","3,4","4,5"
+186,23/02/08,Wolfsburg,Hertha,D,"2,0","3,2",4
+187,24/02/08,Bayern Munich,Hamburg,D,"1,65","3,6","6,0"
+188,24/02/08,Nurnberg,Cottbus,D,"1,7","3,5","5,5"
+189,29/02/08,Hertha,Duisburg,H,"1,7","3,6","5,2"
+190,01/03/08,Hannover,Nurnberg,H,"2,1","3,3","3,6"
+191,01/03/08,Hansa Rostock,Bielefeld,D,"1,9","3,3","4,3"
+192,01/03/08,Karlsruhe,Wolfsburg,H,"2,4","3,2",3
+193,01/03/08,Schalke 04,Bayern Munich,A,3,"3,2","2,4"
+194,01/03/08,Werder Bremen,Dortmund,H,"1,75","3,5",5
+195,02/03/08,Bochum,Leverkusen,H,"3,4","3,2","2,2"
+196,02/03/08,Hamburg,Ein Frankfurt,H,"1,65","3,5",6
+197,07/03/08,Dortmund,Hertha,D,"2,1","3,3","3,6"
+198,08/03/08,Bayern Munich,Karlsruhe,H,"1,33","4,7",11
+199,08/03/08,Bielefeld,Schalke 04,A,4,"3,2","2,0"
+200,08/03/08,Duisburg,Hansa Rostock,D,"2,2","3,2","3,4"
+201,08/03/08,Ein Frankfurt,Bochum,D,"1,95","3,3","4,1"
+202,08/03/08,Stuttgart,Werder Bremen,H,"2,5","3,2","2,9"
+203,08/03/08,Wolfsburg,Cottbus,H,"1,7","3,5","5,5"
+204,09/03/08,Leverkusen,Hannover,H,"1,75","3,5",5
+205,09/03/08,Nurnberg,Hamburg,D,"3,2","3,2","2,3"
+206,11/03/08,Cottbus,Stuttgart,A,"3,6","3,3","2,1"
+207,14/03/08,Schalke 04,Duisburg,H,"1,35","4,7",9
+208,15/03/08,Bochum,Stuttgart,D,"3,0","3,2","2,4"
+209,15/03/08,Cottbus,Bayern Munich,H,"9,0","4,2","1,4"
+210,15/03/08,Hamburg,Dortmund,H,"1,75","3,5",5
+211,15/03/08,Hannover,Bielefeld,D,"1,75","3,5","5,0"
+212,15/03/08,Hansa Rostock,Hertha,D,"2,5","3,2","2,9"
+213,15/03/08,Karlsruhe,Ein Frankfurt,A,"2,15","3,3","3,5"
+214,16/03/08,Leverkusen,Nurnberg,H,"1,6","3,7",6
+215,16/03/08,Werder Bremen,Wolfsburg,A,"1,65","3,7","5,5"
+216,20/03/08,Ein Frankfurt,Cottbus,H,"1,75","3,5",5
+217,22/03/08,Bayern Munich,Leverkusen,H,"1,6","3,7",6
+218,22/03/08,Dortmund,Karlsruhe,D,"2,0","3,4","3,7"
+219,22/03/08,Duisburg,Hannover,D,"2,6","3,3","2,7"
+220,22/03/08,Nurnberg,Bochum,D,"2,0","3,4","3,8"
+221,22/03/08,Stuttgart,Hansa Rostock,H,"1,4","4,3","8,5"
+222,22/03/08,Wolfsburg,Hamburg,D,"2,9","3,2","2,5"
+223,23/03/08,Bielefeld,Werder Bremen,D,"4,5","3,4","1,85"
+224,23/03/08,Hertha,Schalke 04,A,"2,9","3,2","2,5"
+225,28/03/08,Hansa Rostock,Wolfsburg,A,"2,5","3,2","2,9"
+226,29/03/08,Bochum,Dortmund,D,"2,6","3,1","2,8"
+227,29/03/08,Hamburg,Bielefeld,D,"1,35","4,5",10
+228,29/03/08,Karlsruhe,Schalke 04,D,"2,9","3,2","2,5"
+229,29/03/08,Leverkusen,Ein Frankfurt,A,"1,65","3,6","6,0"
+230,29/03/08,Nurnberg,Bayern Munich,D,6,"3,6","1,65"
+231,29/03/08,Werder Bremen,Duisburg,A,"1,3","5,0","11,0"
+232,30/03/08,Cottbus,Hertha,H,"2,6","3,2","2,8"
+233,30/03/08,Hannover,Stuttgart,D,3,"3,2","2,4"
+234,04/04/08,Duisburg,Cottbus,A,"2,3","3,2","3,2"
+235,05/04/08,Bielefeld,Karlsruhe,H,"2,3","3,2","3,2"
+236,05/04/08,Ein Frankfurt,Nurnberg,A,2,"3,2","4,0"
+237,05/04/08,Hertha,Werder Bremen,A,"3,6","3,2","2,15"
+238,05/04/08,Schalke 04,Hansa Rostock,H,"1,4","4,3","9,0"
+239,05/04/08,Stuttgart,Hamburg,H,"2,3","3,2","3,2"
+240,05/04/08,Wolfsburg,Hannover,H,"2,0","3,2",4
+241,06/04/08,Bayern Munich,Bochum,H,"1,25","5,5",12
+242,06/04/08,Dortmund,Leverkusen,H,"2,5","3,2","2,9"
+243,12/04/08,Bochum,Hertha,D,"2,3","3,1","3,3"
+244,12/04/08,Cottbus,Bielefeld,H,"2,15","3,2","3,6"
+245,12/04/08,Hamburg,Duisburg,A,"1,35","4,7","9,0"
+246,12/04/08,Hannover,Ein Frankfurt,H,"2,3","3,3","3,1"
+247,12/04/08,Karlsruhe,Hansa Rostock,A,"2,0","3,3","4,0"
+248,12/04/08,Werder Bremen,Schalke 04,H,"2,0","3,3",4
+249,13/04/08,Bayern Munich,Dortmund,H,"1,45","4,2","7,5"
+250,13/04/08,Leverkusen,Stuttgart,H,"2,4","3,2",3
+251,15/04/08,Hansa Rostock,Werder Bremen,A,"4,8","3,4","1,8"
+252,15/04/08,Hertha,Hamburg,D,"2,7","3,2","2,7"
+253,15/04/08,Schalke 04,Cottbus,H,"1,45","4,2","7,5"
+254,15/04/08,Wolfsburg,Bochum,A,"1,85","3,4","4,5"
+255,16/04/08,Bielefeld,Leverkusen,H,"3,4","3,2","2,2"
+256,16/04/08,Dortmund,Hannover,A,"2,2","3,2","3,4"
+257,16/04/08,Duisburg,Karlsruhe,A,"2,1","3,3","3,6"
+258,16/04/08,Ein Frankfurt,Bayern Munich,A,"4,2","3,4","1,9"
+259,16/04/08,Stuttgart,Nurnberg,H,"1,8","3,5","4,5"
+260,20/04/08,Nurnberg,Wolfsburg,H,"2,15","3,4","3,4"
+261,25/04/08,Ein Frankfurt,Dortmund,D,"2,15","3,3","3,5"
+262,26/04/08,Bochum,Duisburg,D,"2,15","3,3","3,5"
+263,26/04/08,Cottbus,Hansa Rostock,H,"2,15","3,3","3,5"
+264,26/04/08,Hamburg,Schalke 04,A,"2,5","3,2","2,9"
+265,26/04/08,Hannover,Hertha,D,"2,2","3,3","3,3"
+266,26/04/08,Karlsruhe,Werder Bremen,D,"4,5","3,4","1,85"
+267,26/04/08,Nurnberg,Bielefeld,D,"1,75","3,5",5
+268,27/04/08,Bayern Munich,Stuttgart,H,"1,8","3,4","4,8"
+269,27/04/08,Leverkusen,Wolfsburg,D,"1,75","3,5","5,0"
+270,02/05/08,Dortmund,Nurnberg,D,"2,3","3,4",3
+271,03/05/08,Bielefeld,Bochum,H,"1,85","3,4","4,5"
+272,03/05/08,Hansa Rostock,Hamburg,A,3,"3,4","2,3"
+273,03/05/08,Hertha,Karlsruhe,H,"1,9","3,4","4,2"
+274,03/05/08,Schalke 04,Hannover,D,"1,45","4,2","7,5"
+275,03/05/08,Stuttgart,Ein Frankfurt,H,"1,65","3,7","5,5"
+276,03/05/08,Werder Bremen,Cottbus,H,"1,35","4,5","10,0"
+277,04/05/08,Duisburg,Leverkusen,H,"3,3","3,5","2,1"
+278,04/05/08,Wolfsburg,Bayern Munich,D,"3,3","3,3","2,2"
+279,06/05/08,Bochum,Schalke 04,A,"4,5","3,4","1,85"
+280,06/05/08,Dortmund,Stuttgart,H,"3,3","3,3","2,2"
+281,06/05/08,Hannover,Hansa Rostock,H,"1,85","4,5","3,3"
+282,06/05/08,Karlsruhe,Cottbus,D,"2,4","3,2","3,0"
+283,07/05/08,Bayern Munich,Bielefeld,H,"1,4","4,3","8,5"
+284,07/05/08,Ein Frankfurt,Wolfsburg,A,"2,5","3,2","2,9"
+285,07/05/08,Hamburg,Werder Bremen,A,"2,6","3,2","2,8"
+286,07/05/08,Leverkusen,Hertha,A,"1,55","3,9","6,0"
+287,07/05/08,Nurnberg,Duisburg,H,"1,7",4,"4,5"
+288,10/05/08,Bielefeld,Dortmund,D,"1,75","3,7","4,5"
+289,10/05/08,Cottbus,Hamburg,H,"3,1","3,3","2,3"
+290,10/05/08,Duisburg,Bayern Munich,A,"3,6","3,6","1,95"
+291,10/05/08,Hansa Rostock,Leverkusen,A,"3,7","3,8","1,9"
+292,10/05/08,Hertha,Nurnberg,H,"2,9","3,5","2,3"
+293,10/05/08,Karlsruhe,Bochum,A,2,"3,4","3,8"
+294,10/05/08,Schalke 04,Ein Frankfurt,H,"1,3","5,0",10
+295,10/05/08,Werder Bremen,Hannover,H,"1,4","4,3","8,5"
+296,10/05/08,Wolfsburg,Stuttgart,H,"2,5","3,3","2,8"
+297,17/05/08,Bayern Munich,Hertha,H,"1,45","4,0","8,0"
+298,17/05/08,Bochum,Hansa Rostock,A,"1,65","3,7","5,5"
+299,17/05/08,Dortmund,Wolfsburg,A,"3,2","3,7","2,1"
+300,17/05/08,Ein Frankfurt,Duisburg,H,"1,65","3,7","5,5"
+301,17/05/08,Hamburg,Karlsruhe,H,"1,25","5,0","12,0"
+302,17/05/08,Hannover,Cottbus,H,"1,75","3,5",5
+303,17/05/08,Leverkusen,Werder Bremen,A,"2,8","3,3","2,5"
+304,17/05/08,Nurnberg,Schalke 04,A,"2,3","4,3","2,5"
+305,17/05/08,Stuttgart,Bielefeld,D,"1,5","5,0",5
